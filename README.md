@@ -24,7 +24,7 @@
 * The human transcriptome across tissues and individuals ([link](http://science.sciencemag.org/content/348/6235/660))
 * The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans ([link](http://science.sciencemag.org/content/348/6235/648))
 
-**Epigenome**
+**Epigenomics**:
 * ChromHMM: automating chromatin-state discovery and characterization ([link](http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1906.html))
 
 **Cell type heterogeneity correction in association study**:
