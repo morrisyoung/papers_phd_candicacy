@@ -14,12 +14,12 @@
 * Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization ([link](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Temporal_Collaborative_Filtering_With_Bayesian_Probabilidtic_Tensor_Factorization.pdf))
 * Tensor decomposition for multiple-tissue gene expression experiments ([link](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
 
-**eQTLs**:
+**Expression quantitative trait loci (eQTLs)**:
 * Learning a Prior on Regulatory Potential from eQTL Data ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358))
 * Local genetic effects on gene expression across 44 human tissues ([link](http://biorxiv.org/content/early/2016/09/09/074450))
 * Distant regulatory effects of genetic variation in multiple human tissues ([link](http://biorxiv.org/content/early/2016/09/09/074419))
 
-**GTEx flagship**:
+**Genotype-Tissue Expression Project (GTEx) flagship**:
 * The Genotype-Tissue Expression (GTEx) project ([link](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html))
 * The human transcriptome across tissues and individuals ([link](http://science.sciencemag.org/content/348/6235/660))
 * The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans ([link](http://science.sciencemag.org/content/348/6235/648))
