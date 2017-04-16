@@ -2,7 +2,7 @@
 # List of papers for PhD candidacy exam
 
 
-Tensor decomposition:
+**Tensor decomposition**:
 
 * Matrix factorization techniques for recommender systems ([link](http://ieeexplore.ieee.org/document/5197422/))
 
@@ -11,7 +11,7 @@ Tensor decomposition:
 * Tensor decomposition for multiple-tissue gene expression experiments ([link](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
 
 
-Co-expression network analysis:
+**Co-expression network analysis**:
 
 * A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects ([link](https://arxiv.org/abs/1310.4792))
 
@@ -24,7 +24,7 @@ Co-expression network analysis:
 * Co-expression networks reveal the tissue-specific regulation of transcription and splicing ([link](http://biorxiv.org/content/early/2016/10/02/078741))
 
 
-eQTLs:
+**eQTLs**:
 
 * Learning a Prior on Regulatory Potential from eQTL Data ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358))
 
@@ -33,7 +33,7 @@ eQTLs:
 * Distant regulatory effects of genetic variation in multiple human tissues ([link](http://biorxiv.org/content/early/2016/09/09/074419))
 
 
-GTEx flagship:
+**GTEx flagship**:
 
 * The Genotype-Tissue Expression (GTEx) project ([link](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html))
 
@@ -42,7 +42,7 @@ GTEx flagship:
 * The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans ([link](http://science.sciencemag.org/content/348/6235/648))
 
 
-Cell type heterogeneity correction in association study:
+**Cell type heterogeneity correction in association study**:
 
 * Epigenome-wide association studies without the need for cell-type composition ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html))
 
@@ -51,7 +51,7 @@ Cell type heterogeneity correction in association study:
 * Correcting for cell-type heterogeneity in DNA methylation: a comprehensive evaluation ([link](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4190.html?WT.feed_name=subjects_biological-sciences))
 
 
-Joint modeling of genetics and X (X=brain imaging)
+**Joint modeling of genetics and X (X=brain imaging)**:
 
 * Probabilistic Modeling of Imaging, Genetics and Diagnosis ([link](http://ieeexplore.ieee.org/document/7404010/))
 
@@ -62,7 +62,7 @@ Joint modeling of genetics and X (X=brain imaging)
 * Joint modeling of imaging and genetics ([link](https://www.ncbi.nlm.nih.gov/pubmed/24684016))
 
 
-Others:
+**Others**:
 
 * A model-based approach for analysis of spatial structure in genetic data ([link](http://www.nature.com/ng/journal/v44/n6/abs/ng.2285.html))
 
