@@ -8,6 +8,7 @@
 * Context-specific differential gene co-expression networks via Bayesian biclustering models ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791))
 * Sharing and specificity of co-expression networks across 35 human tissues ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004220))
 * Co-expression networks reveal the tissue-specific regulation of transcription and splicing ([link](http://biorxiv.org/content/early/2016/10/02/078741))
+* Understanding multicellular function and disease with human tissue-specific networks ([link](https://www.nature.com/ng/journal/v47/n6/full/ng.3259.html))
 
 **Tensor decomposition**:
 * Matrix factorization techniques for recommender systems ([link](http://ieeexplore.ieee.org/document/5197422/))
@@ -46,7 +47,6 @@
 * A gene-based association method for mapping traits using reference transcriptome data ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html))
 * A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data ([link](https://arxiv.org/abs/1609.08028))
 * Deep learning for computational biology ([link](http://msb.embopress.org/content/12/7/878))
-* Scaling probabilistic models of genetic variation to millions of humans ([link](http://www.nature.com/ng/journal/v48/n12/full/ng.3710.html))
 * Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles ([link](http://www.pnas.org/content/102/43/15545.abstract))
 
 
