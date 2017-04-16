@@ -18,6 +18,9 @@
 * Learning a Prior on Regulatory Potential from eQTL Data ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358))
 * Local genetic effects on gene expression across 44 human tissues ([link](http://biorxiv.org/content/early/2016/09/09/074450))
 * Distant regulatory effects of genetic variation in multiple human tissues ([link](http://biorxiv.org/content/early/2016/09/09/074419))
+* An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202))
+* Leveraging input and output structures for joint mapping of epistatic and marginal eQTLs ([link](https://academic.oup.com/bioinformatics/article/28/12/i137/269401/Leveraging-input-and-output-structures-for-joint))
+* Adaptive Multi-Task Lasso: with Application to eQTL Detection ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf))
 
 **Genotype-Tissue Expression Project (GTEx) flagship**:
 * The Genotype-Tissue Expression (GTEx) project ([link](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html))
