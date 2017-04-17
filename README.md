@@ -33,7 +33,7 @@
 
 **Cell type heterogeneity correction in association study**:
 * Epigenome-wide association studies without the need for cell-type composition ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html))
-* Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies ([link](Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies))
+* Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html))
 * Correcting for cell-type heterogeneity in DNA methylation: a comprehensive evaluation ([link](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4190.html?WT.feed_name=subjects_biological-sciences))
 
 **Joint modeling of genetics and X (X=brain imaging)**:
