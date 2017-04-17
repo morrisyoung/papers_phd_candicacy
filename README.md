@@ -3,7 +3,7 @@
 
 
 **Co-expression network analysis**:
-* A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects ([link](https://arxiv.org/abs/1310.4792)). Gao, C., Brown, C. D., & Engelhardt, B. E. (2013, 10). <i>ArXiv e-prints</i>.
+* <b>A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects</b> ([link](https://arxiv.org/abs/1310.4792)). Gao, C., Brown, C. D., & Engelhardt, B. E. (2013, 10). <i>ArXiv e-prints</i>.
 * Bayesian group latent factor analysis with structured sparsity ([link](http://jmlr.org/papers/volume17/14-472/14-472.pdf))
 * Context-specific differential gene co-expression networks via Bayesian biclustering models ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791))
 * Sharing and specificity of co-expression networks across 35 human tissues ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004220))
