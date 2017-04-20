@@ -2,7 +2,7 @@
 # List of papers for PhD candidacy exam
 
 
-## Co-expression network analysis:
+## 1. Co-expression network analysis:
 * **A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects** ([link](https://arxiv.org/abs/1310.4792)). Gao, C., Brown, C. D., & Engelhardt, B. E. (2013, 10). *ArXiv e-prints*.
 * **Bayesian group latent factor analysis with structured sparsity** ([link](http://jmlr.org/papers/volume17/14-472/14-472.pdf)). Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E. (2014, 11). *ArXiv e-prints*.
 * **Context-specific differential gene co-expression networks via Bayesian biclustering models** ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791)). Gao, C., McDowell, I. C., Zhao, S., Brown, C. D., & Engelhardt, B. E. (2016, 07). *PLOS Computational Biology*.
@@ -10,7 +10,7 @@
 * **Co-expression networks reveal the tissue-specific regulation of transcription and splicing** ([link](http://biorxiv.org/content/early/2016/10/02/078741)). Saha, A., Kim, Y., Gewirtz, A. D. H., Jo, B., Gao, C., McDowell, I. C., ... Battle, A. (2016). *bioRxiv*.
 * **Understanding multicellular function and disease with human tissue-specific networks** ([link](https://www.nature.com/ng/journal/v47/n6/full/ng.3259.html)). Greene, C. S., Krishnan, A., Wong, A. K., Ricciotti, E., Zelaya, R. A., Himmelstein, D. S., ... Troyanskaya, O. G. (2015, 06). *Nature Genetics*.
 
-## Tensor decomposition:
+## 1. Tensor decomposition:
 * **Matrix factorization techniques for recommender systems** ([link](http://ieeexplore.ieee.org/document/5197422/)). Koren, Y., Bell, R., & Volinsky, C. (2009, 08). *Computer*.
 * **Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization** ([link](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Temporal_Collaborative_Filtering_With_Bayesian_Probabilidtic_Tensor_Factorization.pdf)). Xiong, L., Chen, X., Huang, T. K., Schneider, J., & Carbonell, J. G. (2010). *Siam data mining 2010 (sdm 10)*.
 * **Tensor decomposition for multiple-tissue gene expression experiments** ([link](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html)). Hore, V., Vinuela, A., Buil, A., Knight, J., McCarthy, M. I., Small, K., & Marchini, J. (2016, 09). *Nature Genetics*.
