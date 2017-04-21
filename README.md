@@ -1,5 +1,5 @@
 
-# List of papers for PhD candidacy exam
+# A probabilistic perspective on tissue-specific co-expression networks: genetic regulation and biological effects
 
 
 ## 1. Co-expression network analysis:
