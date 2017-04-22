@@ -1,5 +1,5 @@
 
-# A probabilistic perspective on tissue-specific co-expression networks: genetic regulation and biological effects
+# A probabilistic perspective on tissue-specific co-expression networks: genetic regulation and biological consequences
 
 
 ## 1. Co-expression network analysis:
