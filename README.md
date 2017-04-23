@@ -34,7 +34,6 @@
 ## 6. Cell type heterogeneity correction in association study:
 1. **Epigenome-wide association studies without the need for cell-type composition** ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html)). Zou, J., Lippert, C., Heckerman, D., Aryee, M., & Listgarten, J. (2014, 03). *Nature Methods*.
 1. **Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies** ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2016, 05). *Nature Methods*.
-1. **Correcting for cell-type heterogeneity in DNA methylation: a comprehensive evaluation** ([link](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4190.html?WT.feed_name=subjects_biological-sciences)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2017, 03). *Nature Methods*.
 
 ## 7. Joint modeling of genetics and X (X=brain imaging):
 1. **Probabilistic Modeling of Imaging, Genetics and Diagnosis** ([link](http://ieeexplore.ieee.org/document/7404010/)). Batmanghelich, N. K., Dalca, A., Quon, G., Sabuncu, M., & Golland, P. (2016, 07). *IEEE Transactions on Medical Imaging*.
