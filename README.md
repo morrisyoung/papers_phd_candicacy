@@ -40,7 +40,6 @@
 1. **Probabilistic Modeling of Imaging, Genetics and Diagnosis** ([link](http://ieeexplore.ieee.org/document/7404010/)). Batmanghelich, N. K., Dalca, A., Quon, G., Sabuncu, M., & Golland, P. (2016, 07). *IEEE Transactions on Medical Imaging*.
 1. **Generative Method to Discover Genetically Driven Image Biomarkers** ([link](https://link.springer.com/chapter/10.1007/978-3-319-19992-4_3)). Batmanghelich, N. K., Saeedi, A., Cho, M., Estepar, R. S. J., & Golland, P. (2015). *Information processing in medical imaging*.
 1. **Spherical Topic Models for Imaging Phenotype Discovery in Genetic Studies** ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337963/)). Batmanghelich, N. K., Cho, M., Jose, R. S., & Golland, P. (2014). *Bayesian and graphical models for biomedical imaging: first international workshop*.
-1. **Joint modeling of imaging and genetics** ([link](https://www.ncbi.nlm.nih.gov/pubmed/24684016)). Batmanghelich, N. K., Dalca, A. V., Sabuncu, M. R., Golland, P., & ADNI. (2013). *Information processing in medical imaging*.
 
 ## 8. Others:
 1. **A model-based approach for analysis of spatial structure in genetic data** ([link](http://www.nature.com/ng/journal/v44/n6/abs/ng.2285.html)). Yang, W.-Y., Novembre, J., Eskin, E., & Halperin, E. (2012, 06). *Nature Genetics*.
