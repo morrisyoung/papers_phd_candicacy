@@ -22,27 +22,25 @@
 1. **An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations** ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202)). Lee, S., Lozano, A. C., Kambadur, P., & Xing, E. P. (2016). *Journal of Computational Biology*.
 1. **Leveraging input and output structures for joint mapping of epistatic and marginal eQTLs** ([link](https://academic.oup.com/bioinformatics/article/28/12/i137/269401/Leveraging-input-and-output-structures-for-joint)). Lee, S., & Xing, E. P. (2012). *Bioinformatics*.
 1. **Adaptive Multi-Task Lasso: with Application to eQTL Detection** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
+1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
 
 ## 4. Genotype-Tissue Expression Project (GTEx) flagship:
 1. **The Genotype-Tissue Expression (GTEx) project** ([link](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html)). Lonsdale, J., Thomas, J., Salvatore, M., Phillips, R., Lo, E., Shad, S., ... Moore, H. F. (2013, 06). *Nature Genetics*.
 1. **The human transcriptome across tissues and individuals** ([link](http://science.sciencemag.org/content/348/6235/660)). Mel ́e, M., Ferreira, P. G., Reverter, F., DeLuca, D. S., Monlong, J., Sammeth, M., ... Guig ́o, R. (2015). *Science*.
 1. **The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans** ([link](http://science.sciencemag.org/content/348/6235/648)). Ardlie, K. G., Deluca, D. S., Segr`e, A. V., Sullivan, T. J., Young, T. R., Gelfand, E. T., ... Dermitzakis, E. T. (2015). *Science*.
+1. **A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data** ([link](https://arxiv.org/abs/1609.08028)). Zhu, L., Lei, J., Devlin, B., & Roeder, K. (2016, 09). *ArXiv e-prints*.
 
-## 5. Epigenomics:
+## 5. Epigenomics and heterogeneity:
 1. **ChromHMM: automating chromatin-state discovery and characterization** ([link](http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1906.html)). Ernst, J., & Kellis, M. (2012, 03). *Nature Methods*.
-
-## 6. Cell type heterogeneity correction in association study:
 1. **Epigenome-wide association studies without the need for cell-type composition** ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html)). Zou, J., Lippert, C., Heckerman, D., Aryee, M., & Listgarten, J. (2014, 03). *Nature Methods*.
 1. **Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies** ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2016, 05). *Nature Methods*.
 
-## 7. Joint modeling of genetics and X (X=brain imaging):
+## 6. Joint modeling of genetics and X (X=brain imaging):
 1. **Probabilistic Modeling of Imaging, Genetics and Diagnosis** ([link](http://ieeexplore.ieee.org/document/7404010/)). Batmanghelich, N. K., Dalca, A., Quon, G., Sabuncu, M., & Golland, P. (2016, 07). *IEEE Transactions on Medical Imaging*.
 1. **Generative Method to Discover Genetically Driven Image Biomarkers** ([link](https://link.springer.com/chapter/10.1007/978-3-319-19992-4_3)). Batmanghelich, N. K., Saeedi, A., Cho, M., Estepar, R. S. J., & Golland, P. (2015). *Information processing in medical imaging*.
 1. **Spherical Topic Models for Imaging Phenotype Discovery in Genetic Studies** ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337963/)). Batmanghelich, N. K., Cho, M., Jose, R. S., & Golland, P. (2014). *Bayesian and graphical models for biomedical imaging: first international workshop*.
 
-## 8. Others:
-1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
-1. **A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data** ([link](https://arxiv.org/abs/1609.08028)). Zhu, L., Lei, J., Devlin, B., & Roeder, K. (2016, 09). *ArXiv e-prints*.
+## 7. Others:
 1. **Deep learning for computational biology** ([link](http://msb.embopress.org/content/12/7/878)). Angermueller, C., P ̈arnamaa, T., Parts, L., & Stegle, O. (2016). *Molecular Systems Biology*.
 1. **Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles** ([link](http://www.pnas.org/content/102/43/15545.abstract)). Subramanian, A., Tamayo, P., Mootha, V. K., Mukherjee, S., Ebert, B. L., Gillette, M. A., ... Mesirov, J. P. (2005). *Proceedings of the National Academy of Sciences*.
 
