@@ -24,7 +24,7 @@
 1. **Adaptive Multi-Task Lasso: with Application to eQTL Detection** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
 1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
 
-## 4. Genotype-Tissue Expression Project (GTEx) flagship:
+## 4. Genotype-Tissue Expression Project (GTEx) -- tissues on top of cell types:
 1. **The Genotype-Tissue Expression (GTEx) project** ([link](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html)). Lonsdale, J., Thomas, J., Salvatore, M., Phillips, R., Lo, E., Shad, S., ... Moore, H. F. (2013, 06). *Nature Genetics*.
 1. **The human transcriptome across tissues and individuals** ([link](http://science.sciencemag.org/content/348/6235/660)). Mel ́e, M., Ferreira, P. G., Reverter, F., DeLuca, D. S., Monlong, J., Sammeth, M., ... Guig ́o, R. (2015). *Science*.
 1. **The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans** ([link](http://science.sciencemag.org/content/348/6235/648)). Ardlie, K. G., Deluca, D. S., Segr`e, A. V., Sullivan, T. J., Young, T. R., Gelfand, E. T., ... Dermitzakis, E. T. (2015). *Science*.
