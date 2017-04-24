@@ -41,7 +41,6 @@
 1. **Spherical Topic Models for Imaging Phenotype Discovery in Genetic Studies** ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337963/)). Batmanghelich, N. K., Cho, M., Jose, R. S., & Golland, P. (2014). *Bayesian and graphical models for biomedical imaging: first international workshop*.
 
 ## 8. Others:
-1. **A model-based approach for analysis of spatial structure in genetic data** ([link](http://www.nature.com/ng/journal/v44/n6/abs/ng.2285.html)). Yang, W.-Y., Novembre, J., Eskin, E., & Halperin, E. (2012, 06). *Nature Genetics*.
 1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
 1. **A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data** ([link](https://arxiv.org/abs/1609.08028)). Zhu, L., Lei, J., Devlin, B., & Roeder, K. (2016, 09). *ArXiv e-prints*.
 1. **Deep learning for computational biology** ([link](http://msb.embopress.org/content/12/7/878)). Angermueller, C., P ̈arnamaa, T., Parts, L., & Stegle, O. (2016). *Molecular Systems Biology*.
