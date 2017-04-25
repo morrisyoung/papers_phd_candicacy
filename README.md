@@ -40,10 +40,6 @@
 1. **Generative Method to Discover Genetically Driven Image Biomarkers** ([link](https://link.springer.com/chapter/10.1007/978-3-319-19992-4_3)). Batmanghelich, N. K., Saeedi, A., Cho, M., Estepar, R. S. J., & Golland, P. (2015). *Information processing in medical imaging*.
 1. **Spherical Topic Models for Imaging Phenotype Discovery in Genetic Studies** ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337963/)). Batmanghelich, N. K., Cho, M., Jose, R. S., & Golland, P. (2014). *Bayesian and graphical models for biomedical imaging: first international workshop*.
 
-## 7. Others:
-1. **Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles** ([link](http://www.pnas.org/content/102/43/15545.abstract)). Subramanian, A., Tamayo, P., Mootha, V. K., Mukherjee, S., Ebert, B. L., Gillette, M. A., ... Mesirov, J. P. (2005). *Proceedings of the National Academy of Sciences*.
-
-
 
 many more to come..
 
