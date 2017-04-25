@@ -32,6 +32,8 @@
 1. **A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data** ([link](https://arxiv.org/abs/1609.08028)). Zhu, L., Lei, J., Devlin, B., & Roeder, K. (2016, 09). *ArXiv e-prints*.
 
 ## 5. Epigenomics and heterogeneity:
+1. **An integrated encyclopedia of DNA elements in the human genome** ([link](https://www.nature.com/nature/journal/v489/n7414/full/nature11247.html)). Consortium, T. E. P. (2012, 09). *Nature*.
+1. **Integrative analysis of 111 reference human epigenomes**. ([link](http://www.nature.com/nature/journal/v518/n7539/full/nature14248.html)). Consortium, R. E., Kundaje, A., Meuleman, W., Ernst, J., Bilenky, M., Yen, A., ... Kellis, M. (2015, 02). *Nature*.
 1. **ChromHMM: automating chromatin-state discovery and characterization** ([link](http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1906.html)). Ernst, J., & Kellis, M. (2012, 03). *Nature Methods*.
 1. **Epigenome-wide association studies without the need for cell-type composition** ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html)). Zou, J., Lippert, C., Heckerman, D., Aryee, M., & Listgarten, J. (2014, 03). *Nature Methods*.
 1. **Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies** ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2016, 05). *Nature Methods*.
