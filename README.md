@@ -41,7 +41,6 @@
 1. **Spherical Topic Models for Imaging Phenotype Discovery in Genetic Studies** ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337963/)). Batmanghelich, N. K., Cho, M., Jose, R. S., & Golland, P. (2014). *Bayesian and graphical models for biomedical imaging: first international workshop*.
 
 ## 7. Others:
-1. **Deep learning for computational biology** ([link](http://msb.embopress.org/content/12/7/878)). Angermueller, C., P ̈arnamaa, T., Parts, L., & Stegle, O. (2016). *Molecular Systems Biology*.
 1. **Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles** ([link](http://www.pnas.org/content/102/43/15545.abstract)). Subramanian, A., Tamayo, P., Mootha, V. K., Mukherjee, S., Ebert, B. L., Gillette, M. A., ... Mesirov, J. P. (2005). *Proceedings of the National Academy of Sciences*.
 
 
