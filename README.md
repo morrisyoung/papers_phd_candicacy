@@ -21,7 +21,7 @@
 1. **Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization** ([link](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Temporal_Collaborative_Filtering_With_Bayesian_Probabilidtic_Tensor_Factorization.pdf)). Xiong, L., Chen, X., Huang, T. K., Schneider, J., & Carbonell, J. G. (2010). *Siam data mining 2010 (sdm 10)*.
 1. **Tensor decomposition for multiple-tissue gene expression experiments** ([link](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html)). Hore, V., Vinuela, A., Buil, A., Knight, J., McCarthy, M. I., Small, K., & Marchini, J. (2016, 09). *Nature Genetics*.
 
-## 4. Expression quantitative trait loci (eQTLs):
+## 4. Genetics of gene expression -- expression quantitative trait loci (eQTLs):
 1. **Learning a Prior on Regulatory Potential from eQTL Data** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358)). Lee, S.-I., Dudley, A. M., Drubin, D., Silver, P. A., Krogan, N. J., Pe’er, D., & Koller, D. (2009, 01). *PLOS Genetics*.
 1. **Local genetic effects on gene expression across 44 human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074450)). Aguet, F., Brown, A. A., Castel, S., Davis, J. R., Mohammadi, P., Segre, A. V., ... Montgomery, S. B. (2016). *bioRxiv*.
 1. **Distant regulatory effects of genetic variation in multiple human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074419)). Jo, B., He, Y., Strober, B. J., Parsana, P., Aguet, F., Brown, A. A., ... Battle, A. (2016). *bioRxiv*.
