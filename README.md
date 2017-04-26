@@ -40,7 +40,7 @@
 1. **Epigenome-wide association studies without the need for cell-type composition** ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html)). Zou, J., Lippert, C., Heckerman, D., Aryee, M., & Listgarten, J. (2014, 03). *Nature Methods*.
 1. **Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies** ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2016, 05). *Nature Methods*.
 
-## 6. Joint modeling of genetics and X (X=brain imaging):
+## 6. Joint modeling of genetics and X (X=bio-imaging):
 1. **Probabilistic Modeling of Imaging, Genetics and Diagnosis** ([link](http://ieeexplore.ieee.org/document/7404010/)). Batmanghelich, N. K., Dalca, A., Quon, G., Sabuncu, M., & Golland, P. (2016, 07). *IEEE Transactions on Medical Imaging*.
 1. **Generative Method to Discover Genetically Driven Image Biomarkers** ([link](https://link.springer.com/chapter/10.1007/978-3-319-19992-4_3)). Batmanghelich, N. K., Saeedi, A., Cho, M., Estepar, R. S. J., & Golland, P. (2015). *Information processing in medical imaging*.
 
