@@ -46,6 +46,5 @@
 1. **Spherical Topic Models for Imaging Phenotype Discovery in Genetic Studies** ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337963/)). Batmanghelich, N. K., Cho, M., Jose, R. S., & Golland, P. (2014). *Bayesian and graphical models for biomedical imaging: first international workshop*.
 
 
-many more to come..
 
 [[back](http://shuo-yang.com)]
