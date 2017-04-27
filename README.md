@@ -23,13 +23,13 @@
 
 ## 4. Genetics of gene expression -- expression quantitative trait loci (eQTLs):
 1. **Learning a Prior on Regulatory Potential from eQTL Data** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358)). Lee, S.-I., Dudley, A. M., Drubin, D., Silver, P. A., Krogan, N. J., Pe’er, D., & Koller, D. (2009, 01). *PLOS Genetics*.
+1. **Adaptive Multi-Task Lasso: with Application to eQTL Detection** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
 1. **Local genetic effects on gene expression across 44 human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074450)). Aguet, F., Brown, A. A., Castel, S., Davis, J. R., Mohammadi, P., Segre, A. V., ... Montgomery, S. B. (2016). *bioRxiv*.
 1. **Distant regulatory effects of genetic variation in multiple human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074419)). Jo, B., He, Y., Strober, B. J., Parsana, P., Aguet, F., Brown, A. A., ... Battle, A. (2016). *bioRxiv*.
 1. **The impact of rare variation on gene expression across tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074443)). Li, X., Kim, Y., Tsang, E. K., Davis, J. R., Damani, F. N., Chiang, C., ... Montgomery, S. B. (2016). *bioRxiv*.
+1. **An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations** ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202)). Lee, S., Lozano, A. C., Kambadur, P., & Xing, E. P. (2016). *Journal of Computational Biology*.
 1. **A statistical framework for joint eqtl analysis in multiple tissues** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003486)). Flutre, T., Wen, X., Pritchard, J., & Stephens, M. (2013, 05). *PLOS Genetics*.
 1. **An Empirical Bayes Approach for Multiple Tissue eQTL Analysis** ([link](https://arxiv.org/abs/1311.2948)). Li, G., Shabalin, A. A., Rusyn, I., Wright, F. A., & Nobel, A. B. (2013, 11). *ArXiv e-prints*.
-1. **An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations** ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202)). Lee, S., Lozano, A. C., Kambadur, P., & Xing, E. P. (2016). *Journal of Computational Biology*.
-1. **Adaptive Multi-Task Lasso: with Application to eQTL Detection** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
 1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
 
 ## 5. Epigenomics and heterogeneity:
