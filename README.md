@@ -17,7 +17,6 @@
 1. **Understanding multicellular function and disease with human tissue-specific networks** ([link](https://www.nature.com/ng/journal/v47/n6/full/ng.3259.html)). Greene, C. S., Krishnan, A., Wong, A. K., Ricciotti, E., Zelaya, R. A., Himmelstein, D. S., ... Troyanskaya, O. G. (2015, 06). *Nature Genetics*.
 
 ## 3. Context specificity -- a tensor view:
-1. **Matrix factorization techniques for recommender systems** ([link](http://ieeexplore.ieee.org/document/5197422/)). Koren, Y., Bell, R., & Volinsky, C. (2009, 08). *Computer*.
 1. **Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization** ([link](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Temporal_Collaborative_Filtering_With_Bayesian_Probabilidtic_Tensor_Factorization.pdf)). Xiong, L., Chen, X., Huang, T. K., Schneider, J., & Carbonell, J. G. (2010). *Siam data mining 2010 (sdm 10)*.
 1. **Tensor decomposition for multiple-tissue gene expression experiments** ([link](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html)). Hore, V., Vinuela, A., Buil, A., Knight, J., McCarthy, M. I., Small, K., & Marchini, J. (2016, 09). *Nature Genetics*.
 
