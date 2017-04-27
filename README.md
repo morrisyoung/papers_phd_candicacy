@@ -29,7 +29,6 @@
 1. **A statistical framework for joint eqtl analysis in multiple tissues** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003486)). Flutre, T., Wen, X., Pritchard, J., & Stephens, M. (2013, 05). *PLOS Genetics*.
 1. **An Empirical Bayes Approach for Multiple Tissue eQTL Analysis** ([link](https://arxiv.org/abs/1311.2948)). Li, G., Shabalin, A. A., Rusyn, I., Wright, F. A., & Nobel, A. B. (2013, 11). *ArXiv e-prints*.
 1. **An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations** ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202)). Lee, S., Lozano, A. C., Kambadur, P., & Xing, E. P. (2016). *Journal of Computational Biology*.
-1. **Leveraging input and output structures for joint mapping of epistatic and marginal eQTLs** ([link](https://academic.oup.com/bioinformatics/article/28/12/i137/269401/Leveraging-input-and-output-structures-for-joint)). Lee, S., & Xing, E. P. (2012). *Bioinformatics*.
 1. **Adaptive Multi-Task Lasso: with Application to eQTL Detection** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
 1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
 
