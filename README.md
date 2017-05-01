@@ -20,7 +20,14 @@
 1. **Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization** ([link](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Temporal_Collaborative_Filtering_With_Bayesian_Probabilidtic_Tensor_Factorization.pdf)). Xiong, L., Chen, X., Huang, T. K., Schneider, J., & Carbonell, J. G. (2010). *Siam data mining 2010 (sdm 10)*.
 1. **Tensor decomposition for multiple-tissue gene expression experiments** ([link](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html)). Hore, V., Vinuela, A., Buil, A., Knight, J., McCarthy, M. I., Small, K., & Marchini, J. (2016, 09). *Nature Genetics*.
 
-## 4. Genetics of gene expression -- expression quantitative trait loci (eQTLs):
+## 4. Epigenomics and heterogeneity:
+1. **An integrated encyclopedia of DNA elements in the human genome** ([link](https://www.nature.com/nature/journal/v489/n7414/full/nature11247.html)). Consortium, T. E. P. (2012, 09). *Nature*.
+1. **Integrative analysis of 111 reference human epigenomes**. ([link](http://www.nature.com/nature/journal/v518/n7539/full/nature14248.html)). Consortium, R. E., Kundaje, A., Meuleman, W., Ernst, J., Bilenky, M., Yen, A., ... Kellis, M. (2015, 02). *Nature*.
+1. **ChromHMM: automating chromatin-state discovery and characterization** ([link](http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1906.html)). Ernst, J., & Kellis, M. (2012, 03). *Nature Methods*.
+1. **Epigenome-wide association studies without the need for cell-type composition** ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html)). Zou, J., Lippert, C., Heckerman, D., Aryee, M., & Listgarten, J. (2014, 03). *Nature Methods*.
+1. **Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies** ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2016, 05). *Nature Methods*.
+
+## 5. Genetics of gene expression -- expression quantitative trait loci (eQTLs):
 1. **Learning a Prior on Regulatory Potential from eQTL Data** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358)). Lee, S.-I., Dudley, A. M., Drubin, D., Silver, P. A., Krogan, N. J., Pe’er, D., & Koller, D. (2009, 01). *PLOS Genetics*.
 1. **Adaptive Multi-Task Lasso: with Application to eQTL Detection** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
 1. **Local genetic effects on gene expression across 44 human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074450)). Aguet, F., Brown, A. A., Castel, S., Davis, J. R., Mohammadi, P., Segre, A. V., ... Montgomery, S. B. (2016). *bioRxiv*.
@@ -29,13 +36,6 @@
 1. **An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations** ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202)). Lee, S., Lozano, A. C., Kambadur, P., & Xing, E. P. (2016). *Journal of Computational Biology*.
 1. **A statistical framework for joint eqtl analysis in multiple tissues** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003486)). Flutre, T., Wen, X., Pritchard, J., & Stephens, M. (2013, 05). *PLOS Genetics*.
 1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
-
-## 5. Epigenomics and heterogeneity:
-1. **An integrated encyclopedia of DNA elements in the human genome** ([link](https://www.nature.com/nature/journal/v489/n7414/full/nature11247.html)). Consortium, T. E. P. (2012, 09). *Nature*.
-1. **Integrative analysis of 111 reference human epigenomes**. ([link](http://www.nature.com/nature/journal/v518/n7539/full/nature14248.html)). Consortium, R. E., Kundaje, A., Meuleman, W., Ernst, J., Bilenky, M., Yen, A., ... Kellis, M. (2015, 02). *Nature*.
-1. **ChromHMM: automating chromatin-state discovery and characterization** ([link](http://www.nature.com/nmeth/journal/v9/n3/full/nmeth.1906.html)). Ernst, J., & Kellis, M. (2012, 03). *Nature Methods*.
-1. **Epigenome-wide association studies without the need for cell-type composition** ([link](http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2815.html)). Zou, J., Lippert, C., Heckerman, D., Aryee, M., & Listgarten, J. (2014, 03). *Nature Methods*.
-1. **Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies** ([link](http://www.nature.com/nmeth/journal/v13/n5/full/nmeth.3809.html)). Rahmani, E., Zaitlen, N., Baran, Y., Eng, C., Hu, D., Galanter, J., ... Halperin, E. (2016, 05). *Nature Methods*.
 
 ## 6. Joint modeling of genetics and X (X=bio-imaging):
 1. **Probabilistic Modeling of Imaging, Genetics and Diagnosis** ([link](http://ieeexplore.ieee.org/document/7404010/)). Batmanghelich, N. K., Dalca, A., Quon, G., Sabuncu, M., & Golland, P. (2016, 07). *IEEE Transactions on Medical Imaging*.
