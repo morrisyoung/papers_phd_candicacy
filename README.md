@@ -4,8 +4,8 @@
 
 ## 1. Genotype-Tissue Expression (GTEx) project -- tissues on top of cell types:
 1. **The Genotype-Tissue Expression (GTEx) project** ([link](http://www.nature.com/ng/journal/v45/n6/full/ng.2653.html)). Lonsdale, J., Thomas, J., Salvatore, M., Phillips, R., Lo, E., Shad, S., ... Moore, H. F. (2013, 06). *Nature Genetics*.
-1. **The human transcriptome across tissues and individuals** ([link](http://science.sciencemag.org/content/348/6235/660)). Mel ́e, M., Ferreira, P. G., Reverter, F., DeLuca, D. S., Monlong, J., Sammeth, M., ... Guig ́o, R. (2015). *Science*.
-1. **The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans** ([link](http://science.sciencemag.org/content/348/6235/648)). Ardlie, K. G., Deluca, D. S., Segr`e, A. V., Sullivan, T. J., Young, T. R., Gelfand, E. T., ... Dermitzakis, E. T. (2015). *Science*.
+1. **The human transcriptome across tissues and individuals** ([link](http://science.sciencemag.org/content/348/6235/660)). Melé, M., Ferreira, P. G., Reverter, F., DeLuca, D. S., Monlong, J., Sammeth, M., ... Guigó, R. (2015). *Science*.
+1. **The Genotype-Tissue Expression (GTEx) pilot analysis: Multitissue gene regulation in humans** ([link](http://science.sciencemag.org/content/348/6235/648)). Ardlie, K. G., Deluca, D. S., Segrè, A. V., Sullivan, T. J., Young, T. R., Gelfand, E. T., ... Dermitzakis, E. T. (2015). *Science*.
 1. **A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data** ([link](https://arxiv.org/abs/1609.08028)). Zhu, L., Lei, J., Devlin, B., & Roeder, K. (2016, 09). *ArXiv e-prints*.
 
 ## 2. Gene co-expression network:
