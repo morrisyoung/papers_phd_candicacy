@@ -10,8 +10,8 @@
 
 ## 2. Gene co-expression network:
 1. **<u style="background-color:rgb(0,255,0)">A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects</u>** ([link](https://arxiv.org/abs/1310.4792)). Gao, C., Brown, C. D., & Engelhardt, B. E. (2013, 10). *ArXiv e-prints*.
-1. **<u>Context-specific differential gene co-expression networks via Bayesian biclustering models</u>** ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791)). Gao, C., McDowell, I. C., Zhao, S., Brown, C. D., & Engelhardt, B. E. (2016, 07). *PLOS Computational Biology*.
-1. **<u>Bayesian group latent factor analysis with structured sparsity</u>** ([link](http://jmlr.org/papers/volume17/14-472/14-472.pdf)). Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E. (2016). *Journal of Machine Learning Research (JMLR)*.
+1. **<u style="background-color:rgb(0,255,0)">Context-specific differential gene co-expression networks via Bayesian biclustering models</u>** ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791)). Gao, C., McDowell, I. C., Zhao, S., Brown, C. D., & Engelhardt, B. E. (2016, 07). *PLOS Computational Biology*.
+1. **<u style="background-color:rgb(0,255,0)">Bayesian group latent factor analysis with structured sparsity</u>** ([link](http://jmlr.org/papers/volume17/14-472/14-472.pdf)). Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E. (2016). *Journal of Machine Learning Research (JMLR)*.
 1. **Sharing and specificity of co-expression networks across 35 human tissues** ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004220)). Pierson, E., the GTEx Consortium, Koller, D., Battle, A., & Mostafavi, S. (2015, 05). *PLOS Computational Biology*.
 1. **Co-expression networks reveal the tissue-specific regulation of transcription and splicing** ([link](http://biorxiv.org/content/early/2016/10/02/078741)). Saha, A., Kim, Y., Gewirtz, A. D. H., Jo, B., Gao, C., McDowell, I. C., ... Battle, A. (2016). *bioRxiv*.
 1. **Understanding multicellular function and disease with human tissue-specific networks** ([link](https://www.nature.com/ng/journal/v47/n6/full/ng.3259.html)). Greene, C. S., Krishnan, A., Wong, A. K., Ricciotti, E., Zelaya, R. A., Himmelstein, D. S., ... Troyanskaya, O. G. (2015, 06). *Nature Genetics*.
@@ -31,9 +31,9 @@
 1. **Local genetic effects on gene expression across 44 human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074450)). Aguet, F., Brown, A. A., Castel, S., Davis, J. R., Mohammadi, P., Segre, A. V., ... Montgomery, S. B. (2016). *bioRxiv*.
 1. **Distant regulatory effects of genetic variation in multiple human tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074419)). Jo, B., He, Y., Strober, B. J., Parsana, P., Aguet, F., Brown, A. A., ... Battle, A. (2016). *bioRxiv*.
 1. **The impact of rare variation on gene expression across tissues** ([link](http://biorxiv.org/content/early/2016/09/09/074443)). Li, X., Kim, Y., Tsang, E. K., Davis, J. R., Damani, F. N., Chiang, C., ... Montgomery, S. B. (2016). *bioRxiv*.
-1. **<u>Learning a Prior on Regulatory Potential from eQTL Data</u>** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358)). Lee, S.-I., Dudley, A. M., Drubin, D., Silver, P. A., Krogan, N. J., Pe’er, D., & Koller, D. (2009, 01). *PLOS Genetics*.
-1. **<u>Adaptive Multi-Task Lasso: with Application to eQTL Detection</u>** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
-1. **<u>A statistical framework for joint eqtl analysis in multiple tissues</u>** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003486)). Flutre, T., Wen, X., Pritchard, J., & Stephens, M. (2013, 05). *PLOS Genetics*.
+1. **<u style="background-color:rgb(0,255,0)">Learning a Prior on Regulatory Potential from eQTL Data</u>** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000358)). Lee, S.-I., Dudley, A. M., Drubin, D., Silver, P. A., Krogan, N. J., Pe’er, D., & Koller, D. (2009, 01). *PLOS Genetics*.
+1. **<u style="background-color:rgb(0,255,0)">Adaptive Multi-Task Lasso: with Application to eQTL Detection</u>** ([link](http://www.cs.cmu.edu/~seunghak/NIPS2010_0499.pdf)). Lee, S., Zhu, J., & Xing, E. P. (2010). *Advances in neural information processing systems (NIPS)*.
+1. **<u style="background-color:rgb(0,255,0)">A statistical framework for joint eqtl analysis in multiple tissues</u>** ([link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003486)). Flutre, T., Wen, X., Pritchard, J., & Stephens, M. (2013, 05). *PLOS Genetics*.
 1. **An Efficient Nonlinear Regression Approach for Genome-wide Detection of Marginal and Interacting Genetic Variations** ([link](http://online.liebertpub.com/doi/10.1089/cmb.2015.0202)). Lee, S., Lozano, A. C., Kambadur, P., & Xing, E. P. (2016). *Journal of Computational Biology*.
 1. **A gene-based association method for mapping traits using reference transcriptome data** ([link](http://www.nature.com/ng/journal/v47/n9/full/ng.3367.html)). Gamazon, E. R., Wheeler, H. E., Shah, K. P., Mozaffari, S. V., Aquino-Michaels, K., Carroll, R. J., ... Im, H. K. (2015, 09). *Nature Genetics*.
 
@@ -42,7 +42,7 @@
 1. **Generative Method to Discover Genetically Driven Image Biomarkers** ([link](https://link.springer.com/chapter/10.1007/978-3-319-19992-4_3)). Batmanghelich, N. K., Saeedi, A., Cho, M., Estepar, R. S. J., & Golland, P. (2015). *Information processing in medical imaging*.
 
 
-**<u>title</u>**: special treatment
+**<u style="background-color:rgb(0,255,0)">title</u>**: special treatment
 
 
 
