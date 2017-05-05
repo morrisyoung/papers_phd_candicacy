@@ -9,7 +9,7 @@
 1. **A Unified Statistical Framework for Single Cell and Bulk RNA Sequencing Data** ([link](https://arxiv.org/abs/1609.08028)). Zhu, L., Lei, J., Devlin, B., & Roeder, K. (2016, 09). *ArXiv e-prints*.
 
 ## 2. Gene co-expression network:
-1. <u>**A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects**</u> ([link](https://arxiv.org/abs/1310.4792)). Gao, C., Brown, C. D., & Engelhardt, B. E. (2013, 10). *ArXiv e-prints*.
+1. **<u>A latent factor model with a mixture of sparse and dense factors to model gene expression data with confounding effects</u>** ([link](https://arxiv.org/abs/1310.4792)). Gao, C., Brown, C. D., & Engelhardt, B. E. (2013, 10). *ArXiv e-prints*.
 1. **Context-specific differential gene co-expression networks via Bayesian biclustering models** ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004791)). Gao, C., McDowell, I. C., Zhao, S., Brown, C. D., & Engelhardt, B. E. (2016, 07). *PLOS Computational Biology*.
 1. **Bayesian group latent factor analysis with structured sparsity** ([link](http://jmlr.org/papers/volume17/14-472/14-472.pdf)). Zhao, S., Gao, C., Mukherjee, S., & Engelhardt, B. E. (2016). *Journal of Machine Learning Research (JMLR)*.
 1. **Sharing and specificity of co-expression networks across 35 human tissues** ([link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004220)). Pierson, E., the GTEx Consortium, Koller, D., Battle, A., & Mostafavi, S. (2015, 05). *PLOS Computational Biology*.
